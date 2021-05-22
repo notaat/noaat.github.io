@@ -1,2 +1,2 @@
-# noaat.github.io
+# notaat.github.io
 NOTAAT is a collective by Sultana Zana and Puneet Jain
